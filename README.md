@@ -3,9 +3,8 @@
 
 ## Быстрый старт
 
-1. Скачайте и распакуйте последнюю версию приложения из раздела **Releases**. https://github.com/ilyhaisgood/ZAPRET-GUI/releases
-2. Скачайте актуальную версию `zapret` с официального репозитория:
-   https://github.com/Flowseal/zapret-discord-youtube/releases
+1. Скачайте и распакуйте последнюю версию приложения из раздела [**Releases**](https://github.com/ilyhaisgood/ZAPRET-GUI/releases)
+2. Скачайте актуальную версию `zapret` с официального репозитория: https://github.com/Flowseal/zapret-discord-youtube/releases
 3. Из архива Flowseal перенесите все файлы в папку `zapret` в `resources/zapret`.
 4. Запустите `ZapretGUI.exe`.
 5. В настройках выберите нужный профиль.
